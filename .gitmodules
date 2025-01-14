@@ -1,0 +1,3 @@
+[submodule "Heroku_Render_Starter"]
+	path = Heroku_Render_Starter
+	url = https://github.com/krillavilla/Heroku_Render_Starter.git
